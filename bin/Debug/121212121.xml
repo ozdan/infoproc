@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Построенный ранее граф-->
+<Graph>
+  <Node>
+    <Name>x1</Name>
+    <CoordX>98</CoordX>
+    <CoordY>128</CoordY>
+  </Node>
+  <Node>
+    <Name>x2</Name>
+    <CoordX>291</CoordX>
+    <CoordY>311</CoordY>
+  </Node>
+  <Node>
+    <Name>x3</Name>
+    <CoordX>369</CoordX>
+    <CoordY>152</CoordY>
+  </Node>
+  <Node>
+    <Name>x4</Name>
+    <CoordX>307</CoordX>
+    <CoordY>57</CoordY>
+  </Node>
+  <Node>
+    <Name>x5</Name>
+    <CoordX>108</CoordX>
+    <CoordY>382</CoordY>
+  </Node>
+  <Node>
+    <Name>x6</Name>
+    <CoordX>397</CoordX>
+    <CoordY>413</CoordY>
+  </Node>
+  <Node>
+    <Name>x7</Name>
+    <CoordX>212</CoordX>
+    <CoordY>238</CoordY>
+  </Node>
+</Graph>

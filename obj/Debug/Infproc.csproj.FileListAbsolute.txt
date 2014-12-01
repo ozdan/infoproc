@@ -1,0 +1,37 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\bin\Debug\Infproc.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\bin\Debug\Infproc.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\Infproc.InfoForm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\Infproc.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\Infproc.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\Infproc.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2005\Projects\Infproc\obj\Debug\Infproc.pdb
+I:\Infproc\obj\Debug\Infproc.exe
+I:\Infproc\obj\Debug\Infproc.pdb
+I:\Infproc\bin\Debug\Infproc.exe
+I:\Infproc\bin\Debug\Infproc.pdb
+I:\Infproc\obj\Debug\ResolveAssemblyReference.cache
+I:\Infproc\obj\Debug\Infproc.InfoForm.resources
+I:\Infproc\obj\Debug\Infproc.Properties.Resources.resources
+I:\Infproc\obj\Debug\GenerateResource.read.1.tlog
+I:\Infproc\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.InfoForm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\bin\Debug\Infproc.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\bin\Debug\Infproc.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Form2.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Form3.resources
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.exe
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.pdb
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.InfoForm.resources
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Form2.resources
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Form3.resources
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\obj\Debug\Infproc.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\bin\Debug\Infproc.exe
+D:\Мои документы\Visual Studio 2008\Projects\Infproc\bin\Debug\Infproc.pdb

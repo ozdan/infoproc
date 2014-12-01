@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Построенный ранее граф-->
+<Graph>
+  <Node>
+    <Name>x1</Name>
+    <CoordX>38</CoordX>
+    <CoordY>198</CoordY>
+  </Node>
+  <Node>
+    <Name>x2</Name>
+    <CoordX>145</CoordX>
+    <CoordY>53</CoordY>
+  </Node>
+  <Node>
+    <Name>x3</Name>
+    <CoordX>384</CoordX>
+    <CoordY>73</CoordY>
+  </Node>
+  <Node>
+    <Name>x4</Name>
+    <CoordX>492</CoordX>
+    <CoordY>210</CoordY>
+  </Node>
+  <Node>
+    <Name>x5</Name>
+    <CoordX>387</CoordX>
+    <CoordY>345</CoordY>
+  </Node>
+  <Node>
+    <Name>x6</Name>
+    <CoordX>152</CoordX>
+    <CoordY>351</CoordY>
+  </Node>
+  <Arc>
+    <Weight>6</Weight>
+    <Directed>false</Directed>
+    <Nodes>x6; x3</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>4</Weight>
+    <Directed>false</Directed>
+    <Nodes>x6; x2</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>8</Weight>
+    <Directed>false</Directed>
+    <Nodes>x5; x3</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>5</Weight>
+    <Directed>false</Directed>
+    <Nodes>x6; x5</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>5</Weight>
+    <Directed>false</Directed>
+    <Nodes>x1; x6</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>1</Weight>
+    <Directed>false</Directed>
+    <Nodes>x5; x4</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>7</Weight>
+    <Directed>false</Directed>
+    <Nodes>x3; x4</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>4</Weight>
+    <Directed>false</Directed>
+    <Nodes>x2; x3</Nodes>
+  </Arc>
+  <Arc>
+    <Weight>2</Weight>
+    <Directed>false</Directed>
+    <Nodes>x1; x2</Nodes>
+  </Arc>
+</Graph>
